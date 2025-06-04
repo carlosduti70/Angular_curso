@@ -20,3 +20,4 @@ const totalChildren = (passenger: Passenger) => {
 }
 
 totalChildren(passenger1)
+totalChildren(passenger2)
